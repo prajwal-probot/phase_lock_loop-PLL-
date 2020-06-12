@@ -11,7 +11,9 @@ A simple PLL circut is built and following outcomes are simulated in the above g
  (ON WINDOWS-7/8 and above..) and (Macintosh Operating System (Mac OS)):
  follow steps :
  1) Go to www.google.com and click on the below link and download LT-spice for (WINDOWS/MAC) based on your operating system.
+ 
  https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
+ 
  2) download the complete setup and install it completly.
  3) after installation run the setup-file.
  4) LT-spice software will run.
@@ -32,6 +34,7 @@ A simple PLL circut is built and following outcomes are simulated in the above g
 2)Now launch the LT-spice software and run it.
 
 3)after opening go to option :
+
                          1.FILE.
 			 
                          2.OPEN.
@@ -40,7 +43,7 @@ A simple PLL circut is built and following outcomes are simulated in the above g
 			 
                          4.open the file name :[clock_multiplier_PLL(1).asc].
 			 
-4)You will automatically get nto my schamatic file and see the circut.
+4)You will automatically get into my schamatic file and see the circut.
 
 5)YOU can click on 'simulation' option and see the wave-forms.
 
