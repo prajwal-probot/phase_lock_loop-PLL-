@@ -33,9 +33,13 @@ A simple PLL circut is built and following outcomes are simulated in the above g
 
 3)after opening go to option :
                          1.FILE.
+			 
                          2.OPEN.
+			 
                          3.Go to drive where downloaded the git.file.
+			 
                          4.open the file name :[clock_multiplier_PLL(1).asc].
+			 
 4)You will automatically get nto my schamatic file and see the circut.
 
 5)YOU can click on 'simulation' option and see the wave-forms.
