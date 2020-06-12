@@ -14,10 +14,10 @@ A simple PLL circut is built and following outcomes are simulated in the above g
  https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
  2) download the complete setup and install it completly.
  3) after installation run the setup-file.
- 4) LT-spice software will run. click on the option : 
-                                1.File
-                                2.Open.
-                                3.Go to the drive where you have saved
+ 4) LT-spice software will run.
+ 
+# RUNNING MY GIT.FILE AND SIMULATING:
+
                                
                                 
                          
